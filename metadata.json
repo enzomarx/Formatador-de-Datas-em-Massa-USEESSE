@@ -1,0 +1,5 @@
+{
+  "name": "Date Formatter",
+  "description": "A simple tool to batch convert dates from M/D/YYYY format to the standard YYYY-MM-DD format. Paste multiple dates and convert them all at once.",
+  "requestFramePermissions": []
+}
